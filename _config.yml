@@ -1,0 +1,28 @@
+name: Birdcho
+favicon: null
+layout_spectrum: 0.6828506155870855
+typography_spectrum: 0.7370026651769876
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.28905285499058664
+  lightness: 0.7245206309016794
+  saturation: 0.13586383126676083
+  rhythmicContrast: 0.5567881567403674
+purpose: []
